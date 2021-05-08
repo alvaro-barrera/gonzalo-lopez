@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/gonzalo-lopez/static/css/main.f36bd1a2.chunk.css",
-    "main.js": "/gonzalo-lopez/static/js/main.c9670604.chunk.js",
-    "main.js.map": "/gonzalo-lopez/static/js/main.c9670604.chunk.js.map",
+    "main.css": "/gonzalo-lopez/static/css/main.909a7a42.chunk.css",
+    "main.js": "/gonzalo-lopez/static/js/main.842cadd7.chunk.js",
+    "main.js.map": "/gonzalo-lopez/static/js/main.842cadd7.chunk.js.map",
     "runtime-main.js": "/gonzalo-lopez/static/js/runtime-main.de97a7de.js",
     "runtime-main.js.map": "/gonzalo-lopez/static/js/runtime-main.de97a7de.js.map",
     "static/js/2.fac0083a.chunk.js": "/gonzalo-lopez/static/js/2.fac0083a.chunk.js",
@@ -10,9 +10,9 @@
     "static/js/3.be6a7604.chunk.js": "/gonzalo-lopez/static/js/3.be6a7604.chunk.js",
     "static/js/3.be6a7604.chunk.js.map": "/gonzalo-lopez/static/js/3.be6a7604.chunk.js.map",
     "index.html": "/gonzalo-lopez/index.html",
-    "static/css/main.f36bd1a2.chunk.css.map": "/gonzalo-lopez/static/css/main.f36bd1a2.chunk.css.map",
+    "static/css/main.909a7a42.chunk.css.map": "/gonzalo-lopez/static/css/main.909a7a42.chunk.css.map",
     "static/js/2.fac0083a.chunk.js.LICENSE.txt": "/gonzalo-lopez/static/js/2.fac0083a.chunk.js.LICENSE.txt",
-    "static/media/global.css": "/gonzalo-lopez/static/media/banner.139a64b5.png",
+    "static/media/global.css": "/gonzalo-lopez/static/media/banner-min.5700f658.png",
     "static/media/icon_banner.17ac3255.png": "/gonzalo-lopez/static/media/icon_banner.17ac3255.png",
     "static/media/ig.46c1fb5f.png": "/gonzalo-lopez/static/media/ig.46c1fb5f.png",
     "static/media/image_crm.30a41976.png": "/gonzalo-lopez/static/media/image_crm.30a41976.png",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.de97a7de.js",
     "static/js/2.fac0083a.chunk.js",
-    "static/css/main.f36bd1a2.chunk.css",
-    "static/js/main.c9670604.chunk.js"
+    "static/css/main.909a7a42.chunk.css",
+    "static/js/main.842cadd7.chunk.js"
   ]
 }
