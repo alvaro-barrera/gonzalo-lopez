@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/gonzalo-lopez/static/css/main.909a7a42.chunk.css",
-    "main.js": "/gonzalo-lopez/static/js/main.842cadd7.chunk.js",
-    "main.js.map": "/gonzalo-lopez/static/js/main.842cadd7.chunk.js.map",
+    "main.js": "/gonzalo-lopez/static/js/main.e2881ca7.chunk.js",
+    "main.js.map": "/gonzalo-lopez/static/js/main.e2881ca7.chunk.js.map",
     "runtime-main.js": "/gonzalo-lopez/static/js/runtime-main.de97a7de.js",
     "runtime-main.js.map": "/gonzalo-lopez/static/js/runtime-main.de97a7de.js.map",
     "static/js/2.fac0083a.chunk.js": "/gonzalo-lopez/static/js/2.fac0083a.chunk.js",
@@ -14,18 +14,15 @@
     "static/js/2.fac0083a.chunk.js.LICENSE.txt": "/gonzalo-lopez/static/js/2.fac0083a.chunk.js.LICENSE.txt",
     "static/media/global.css": "/gonzalo-lopez/static/media/banner-min.5700f658.png",
     "static/media/icon_banner.17ac3255.png": "/gonzalo-lopez/static/media/icon_banner.17ac3255.png",
-    "static/media/ig.46c1fb5f.png": "/gonzalo-lopez/static/media/ig.46c1fb5f.png",
     "static/media/image_crm.30a41976.png": "/gonzalo-lopez/static/media/image_crm.30a41976.png",
     "static/media/image_wallet.d2314d6a.png": "/gonzalo-lopez/static/media/image_wallet.d2314d6a.png",
-    "static/media/logo.6ce24c58.svg": "/gonzalo-lopez/static/media/logo.6ce24c58.svg",
     "static/media/profile.a95204d6.png": "/gonzalo-lopez/static/media/profile.a95204d6.png",
-    "static/media/twitter.d6b55b1e.png": "/gonzalo-lopez/static/media/twitter.d6b55b1e.png",
     "static/media/wsp.edd07d37.png": "/gonzalo-lopez/static/media/wsp.edd07d37.png"
   },
   "entrypoints": [
     "static/js/runtime-main.de97a7de.js",
     "static/js/2.fac0083a.chunk.js",
     "static/css/main.909a7a42.chunk.css",
-    "static/js/main.842cadd7.chunk.js"
+    "static/js/main.e2881ca7.chunk.js"
   ]
 }
